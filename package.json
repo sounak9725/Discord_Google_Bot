@@ -1,0 +1,19 @@
+{
+  "name": "disocrd_google_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "google-auth-library": "^9.14.0",
+    "googleapis": "^143.0.0",
+    "noblox.js": "^6.0.2",
+    "node-fetch": "^2.6.7"
+  }
+}
