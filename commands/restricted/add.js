@@ -1,4 +1,4 @@
-const { SlashCommandBuilder, Client, CommandInteraction } = require('discord.js');
+const { SlashCommandBuilder, Client, CommandInteraction } = require('discord.js'); // eslint-disable-next-line no-unused-vars
 const { updateQuota } = require('../../functions');
 
 module.exports = {
